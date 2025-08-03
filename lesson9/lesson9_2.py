@@ -43,8 +43,8 @@ def main():
     frequency = 1
     name = get_user_name()
     for i in range(frequency):
-        play_game(name)
-    print(f"遊戲結束,{name}共玩了{frequency}次")
+        play_game(name)   print(f"遊戲結束,{name}共玩了{frequency}次")
 
 if __name__ == '__main__':
     main()
+ 
