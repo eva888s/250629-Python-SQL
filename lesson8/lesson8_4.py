@@ -13,7 +13,7 @@ import sys
 DB_CONFIG = {
     "dbname": "postgres",
     "user": "postgres",
-    "password": "raspberry",
+    "password": "raspberry",d
     "host": "host.docker.internal",
     "port": "5432"
 }
